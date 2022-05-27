@@ -1,0 +1,47 @@
+.title {
+  color: rgba(60, 133, 218, 0.526);
+}  text-align
+
+.color {
+  background: rgba(74, 31, 167, 0.405);
+}
+
+body{background-image: url("/Assets/pexels-philippe-donn-1133957\ \(1\).jpg");
+     background-size: cover;
+     background-attachment: fixed;
+
+}
+
+
+.center{
+  text-align: center;
+}
+
+h1 {
+  color: black ;
+  text-align: center;
+  border: 2px solid chartreuse;
+
+}
+
+p {
+  color: darkorange;
+}
+
+div {
+  border:5px solid red;height: 100px; width: ;
+  padding: 80px;
+  border-radius: 50%
+
+}
+
+.cercle{
+  margin-top: 50px;
+  background-color: cornflowerblue;
+  border:10px solid;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  
+}
+
